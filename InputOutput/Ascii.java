@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
  *
  * @author safev
  */
-public class OutputFolderContents {
+public class Ascii {
     public static void main(String[] args) throws IOException{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("Enter: ");
